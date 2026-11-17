@@ -7,7 +7,7 @@
 | `DuoDesk-Host-macOS.zip` | 호스트로 쓸 Mac |
 | `DuoDesk-Host-Windows.exe` | 호스트로 쓸 Windows PC |
 
-아이폰 앱은 TestFlight로 배포한다.
+아이폰 앱은 TestFlight로 배포한다: [초대 링크](https://testflight.apple.com/join/49BKzQMf) (아이폰에 TestFlight 앱이 있어야 한다)
 
 ## 호스트 컴퓨터
 
